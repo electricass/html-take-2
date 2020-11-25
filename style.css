@@ -1,0 +1,48 @@
+.equal-height-columns {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.equal-column-content {
+	height: 100%;
+}
+
+.img-fluid {
+	height: 100%;
+}
+
+
+
+body {
+    background: #85dcba;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+
+
+}
+
+h1 {
+    background: #85dcba;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+}
+
+h3 {
+    background: #85dcba;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+}
+
+h6 {
+    background: #85dcba;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+}
